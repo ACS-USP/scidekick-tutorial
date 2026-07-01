@@ -1,10 +1,5 @@
 # Scidekick Tutorial: ML Research on the Iris Dataset
 
-> **Purpose**: Scripted interaction for a Medium post about agent harnesses.  
-> **Runtime**: ~20 minutes in a fresh `sk` session.  
-> **Output**: Screenshots at each 📸 marker.  
-> **Adapted from**: [Learn ML from Scratch with IRIS Dataset](https://www.kaggle.com/code/suneelpatel/learn-ml-from-scratch-with-iris-dataset) by Suneel Patel.
-
 ---
 
 ## Before You Start
