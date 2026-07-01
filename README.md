@@ -374,17 +374,3 @@ Or, interactively:
 3. The tutorial is **self-contained** — no pre-existing files or setup beyond `sk` itself.
 4. Expected runtime: ~20 minutes end-to-end.
 5. If a skill isn't installed, Scidekick will prompt you: `sk install-skills` installs everything.
-
----
-
-## Notes for the Author
-
-- The Kaggle notebook adapts directly: EDA (Step 4), visualization (Step 7), logistic regression (Step 8),
-  KNN comparison (Step 9). The Scidekick-specific value-add is everything *around* the code:
-  the wiki, hypothesis tracking, evidence graph, literature grounding, and statistical rigor.
-- Emphasize in the post that Scidekick doesn't replace the scientist — it **augments** them
-  by handling the bookkeeping, cross-referencing, and compliance work that consumes
-  ~40% of research time.
-- The "agent harness" framing: just as pytest is a test harness and PyTorch Lightning is
-  a training harness, Scidekick is a **research harness** — it provides the scaffolding
-  (wiki, skills, modes, guards) so researchers focus on science, not infrastructure.
